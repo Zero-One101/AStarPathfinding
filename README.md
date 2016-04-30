@@ -1,5 +1,5 @@
 # AStarPathfinding
-An implemtation of A* pathfinding in C#
+An implementation of A* pathfinding in C#
 
 # How To Run
 Move the world.map file to the same directory as the executable and then launch it.
